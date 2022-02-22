@@ -7,5 +7,5 @@ After 1.3.1.0 update the game ran on Unity IL2CPP scripting backend (previously 
 
 1. Install new BepInEx called "BepInEx Bleeding Edge" -> [BepInEx Bleeding Edge](https://builds.bepinex.dev/projects/bepinex_be)
 2. Start the game once to let the BepInEx generate the file.
-3. Download TaikoUncap and copy to \BepInEx\plugins
+3. Download TaikoUncap and copy to \BepInEx\plugins -> [TaikoUncap v1.0](https://github.com/AspirineHD/Hotfix-TaikoModStuff-1.3.1.0-update/releases/tag/v1.0)
 4. Enjoy
