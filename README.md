@@ -11,5 +11,6 @@ After 1.3.1.0 update the game ran on Unity IL2CPP scripting backend (previously 
 4. Enjoy
 
 
-BepInEx_UnityIL2CPP
+**BepInEx_UnityIL2CPP**
+
 ![image](https://user-images.githubusercontent.com/47499678/155076238-6f1db112-e48d-4a45-b454-fa3164166fe5.png)
